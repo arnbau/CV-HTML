@@ -13,7 +13,6 @@
 
 body
 {
-	background-image: url(white_waves.png);
 	font-family: Arial, serif;
 	color: black
 }
@@ -28,11 +27,7 @@ body
 	display: flex;
 }
 
-#lisere
-{
-	background-image: url(metallic.jpg);
-	width: 10%;
-}
+
 
 @media screen and (max-width: 1024px)
 {
